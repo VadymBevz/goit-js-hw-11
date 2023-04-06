@@ -35,4 +35,3 @@ export function createMarkup(items = []) {
       )
       .join('');
   }
-  
